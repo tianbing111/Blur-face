@@ -25,6 +25,7 @@
 
 
 ## 🐱‍🏍实验结果
-<img src="https://raw.githubusercontent.com/tianbing111/Blur-face/main/result/11.jpgresult.png"/>
 <img src="https://raw.githubusercontent.com/tianbing111/Blur-face/main/result/33.jpgresult.png"/>
+<img src="https://raw.githubusercontent.com/tianbing111/Blur-face/main/result/11.jpgresult.png"/>
+
 #### 参考文献：https://www.pyimagesearch.com/author/adrian/
